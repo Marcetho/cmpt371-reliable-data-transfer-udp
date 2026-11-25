@@ -1,4 +1,4 @@
-# Name: Marcus Ho (301579076), <partner> (<their number>)
+# Name: <your full name> (<your student number>), <partner> (<their number>)
 """The segment format, the checksum, the sequence space, and the shared buffer.
 
 Both of your programs import this module, which is why the seed lives here: it
